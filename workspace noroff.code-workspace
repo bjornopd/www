@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\fundamental-blog-final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Min egen med bootstrap"
+	}
+}
